@@ -2,10 +2,14 @@
 ![](https://raw.githubusercontent.com/weiwenjiang/QML_tutorial/main/Readme_Img/qflow.png)
 
 
-# Tutorial for Implemeting Neural Network on Quantum Computer
+# Tutorial for Implemeting Neural Network on Quantum Computer [Tutorial arXiv](https://arxiv.org/pdf/2012.10360.pdf) [QuantumFlow arXiv](https://arxiv.org/pdf/2006.14815.pdf)
+
+[News] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) is accepted by **Nature Communications**
+
+[News] Invited to give a talk at ASP-DAC 2021 for this tutorial work
 
 ## Overview
-Recently,  we proposed the first neural network and quantum circuit co-design framework, [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf), which has been accepted by **Nature Communications**. Based on the understandings on how to implement neural networks onto quantum computer, we provide a tutorial on implementing neural networks onto quantum circuits, which is based the invited paper at **ASP-DAC 2021**, titled [When Machine Learning Meets Quantum Computers: A Case Study](https://arxiv.org/pdf/2012.10360.pdf). This github repo is for this work, and it will provide the basis to understand  [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf), the repo for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) will be completed soon at [here](https://github.com/weiwenjiang/QuantumFlow).
+Recently,  we proposed the first neural network and quantum circuit co-design framework, [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf). Based on the understandings on how to implement neural networks onto quantum computer, we provide a tutorial on implementing neural networks onto quantum circuits, which is based the invited paper at **ASP-DAC 2021**, titled [When Machine Learning Meets Quantum Computers: A Case Study](https://arxiv.org/pdf/2012.10360.pdf). This github repo is for this work, and it will provide the basis to understand  [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf), the repo for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) will be completed soon at [here](https://github.com/weiwenjiang/QuantumFlow).
 
 ## Framework: from classical to quantum
 ![](https://raw.githubusercontent.com/weiwenjiang/QML_tutorial/main/Readme_Img/Frameworks.png)
