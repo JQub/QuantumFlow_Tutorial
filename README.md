@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/weiwenjiang/QML_tutorial/main/Readme_Img/qflow.png)
 
 
-# Tutorial for Implemeting Neural Network on Quantum Computer [Tutorial arXiv](https://arxiv.org/pdf/2012.10360.pdf) [QuantumFlow arXiv](https://arxiv.org/pdf/2006.14815.pdf)
+# Tutorial for Implemeting Neural Network on Quantum Computer [[Tutorial arXiv](https://arxiv.org/pdf/2012.10360.pdf)] [[QuantumFlow arXiv](https://arxiv.org/pdf/2006.14815.pdf)]
 
 [News] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) is accepted by **Nature Communications**
 
@@ -90,3 +90,9 @@ The work invited by ASP-DAC 2021.
   year={2020}
 }
 ```
+
+**Weiwen Jiang**
+
+**Email: wjiang2@nd.edu**
+
+**Date: 12/31/2020**
