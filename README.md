@@ -11,7 +11,9 @@
 [News] The tutorial is released on 12/31/2020! Happy New Year and enjoy the following Tutorial.
 
 ## Overview
-Recently,  we proposed the first neural network and quantum circuit co-design framework, [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf). Based on the understandings on how to implement neural networks onto quantum computer, we provide a tutorial on implementing neural networks onto quantum circuits, which is based the invited paper at **ASP-DAC 2021**, titled [When Machine Learning Meets Quantum Computers: A Case Study](https://arxiv.org/pdf/2012.10360.pdf). This github repo is for this work, and it will provide the basis to understand  [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf), the repo for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) will be completed soon at [here](https://github.com/weiwenjiang/QuantumFlow).
+Recently, we proposed the first neural network and quantum circuit co-design framework, [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf), in which we have successfully demonstrated the quantum advatages in performing the basic neural operation from O(N) to O(logN). Based on the understandings from the co-design framework, in this repo, we provide a tutorial on an end-to-end implementation of neural networks onto quantum circuits, which is base of the invited paper at **ASP-DAC 2021**, titled [When Machine Learning Meets Quantum Computers: A Case Study](https://arxiv.org/pdf/2012.10360.pdf). 
+
+This repo aims to demonstrate the workflow of implementing neural network onto quantum circuit and demonstrates the functional correctness. It will provide the basis to understand [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf). The demonstration of quantum advantage will be included in the repo for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf), which will be completed soon at [here](https://github.com/weiwenjiang/QuantumFlow).
 
 ## Framework: from classical to quantum
 ![](https://raw.githubusercontent.com/weiwenjiang/QML_tutorial/main/Readme_Img/Frameworks.png)
