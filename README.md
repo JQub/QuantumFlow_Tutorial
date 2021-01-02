@@ -1,9 +1,9 @@
 
 ![](https://raw.githubusercontent.com/weiwenjiang/QML_tutorial/main/Readme_Img/qflow.png)
 
-![](https://img.shields.io/website?style=plastic&up_message=online&url=https%3A%2F%2Fwjiang.nd.edu%2Fcategories%2Fqf%2F)
+![](https://img.shields.io/website?style=plastic&up_message=online&url=https%3A%2F%2Fwjiang.nd.edu%2Fcategories%2Fqf%2F) ![](https://img.shields.io/website?label=paper&up_color=blue&up_message=QuantumFlow&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2006.14815.pdf) ![](https://img.shields.io/website?label=paper&up_color=blue&up_message=Tutorial&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2012.10360.pdf)
 
-# Tutorial for Implemeting Neural Network on Quantum Computer [[Tutorial arXiv](https://arxiv.org/pdf/2012.10360.pdf)] [[QuantumFlow arXiv](https://arxiv.org/pdf/2006.14815.pdf)]
+# Tutorial for Implemeting Neural Network on Quantum Computer
 
 [News] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) has been accepted by **Nature Communications**.
 
