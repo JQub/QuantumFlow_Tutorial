@@ -11,6 +11,9 @@
 
 [News] Invited to give a talk at **ASP-DAC 2021** for this tutorial work.
 
+[News 09-20] Invited to give a talk at **IBM Quantum Summit** for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf).
+
+
 ## Overview
 Recently, we proposed the first neural network and quantum circuit co-design framework, [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf), in which we have successfully demonstrated the quantum advatages in performing the basic neural operation from O(N) to O(logN). Based on the understandings from the co-design framework, in this repo, we provide a tutorial on an end-to-end implementation of neural networks onto quantum circuits, which is base of the invited paper at **ASP-DAC 2021**, titled [When Machine Learning Meets Quantum Computers: A Case Study](https://arxiv.org/pdf/2012.10360.pdf). 
 
