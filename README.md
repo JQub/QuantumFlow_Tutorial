@@ -27,6 +27,9 @@ In the above figure, on the left-hand, it is the design framework for classical 
 Similarly, on the right-hand side, we can build up the workflow for quantum machine learning. It takes 5 steps to complete the whole computation: (1) **PreP** pre-processing data; (2) **U<sub>P</sub>** data encoding onto quantum, that is quantum-state preparation; (3) **U<sub>N</sub>** neural operation oracle on quantum computer; (4) **M** data readout, that is quantum measurement; (5) **PostP** post-processing data. Among these stpes, (1) and (5) are conducted on classical computer, and (2-4) are conducted on the quantum circuit.
 
 ## Tutorial 1: **PreP** + **U<sub>P</sub>**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiwenjiang/QML_tutorial/blob/main/Tutorial_1_DataPreparation.ipynb)
+
 This tutorial demonstrates how to do data pre-preocessing and encoding it to quantum circuit using Qiskit. 
 
 Let us formulate the problem as follow.
