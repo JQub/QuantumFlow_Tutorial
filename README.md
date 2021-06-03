@@ -1,7 +1,7 @@
 
 ![](https://raw.githubusercontent.com/weiwenjiang/QML_tutorial/main/Readme_Img/qflow.png)
 
-[![](https://img.shields.io/website?style=plastic&up_message=online&url=https%3A%2F%2Fwjiang.nd.edu%2Fcategories%2Fqf%2F)](https://jqub.github.io/categories/QF/) [![](https://img.shields.io/website?label=paper&style=plastic&up_color=blue&up_message=QuantumFlow&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2006.14815.pdf)](https://arxiv.org/pdf/2006.14815.pdf) [![](https://img.shields.io/website?label=paper&style=plastic&up_color=blue&up_message=Tutorial&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2012.10360.pdf)](https://arxiv.org/pdf/2012.10360.pdf) [![](https://img.shields.io/badge/Colab-online-orange?style=plastic)]()
+[![](https://img.shields.io/website?style=plastic&up_message=online&url=https%3A%2F%2Fwjiang.nd.edu%2Fcategories%2Fqf%2F)](https://jqub.github.io/categories/QF/) [![](https://img.shields.io/website?label=paper&style=plastic&up_color=blue&up_message=QuantumFlow&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2006.14815.pdf)](https://arxiv.org/pdf/2006.14815.pdf) [![](https://img.shields.io/website?label=paper&style=plastic&up_color=blue&up_message=Tutorial&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2012.10360.pdf)](https://arxiv.org/pdf/2012.10360.pdf) [![](https://img.shields.io/badge/Colab-online-orange?style=plastic)](#)
 
 
 # Tutorial for Implemeting Neural Network on Quantum Computer
