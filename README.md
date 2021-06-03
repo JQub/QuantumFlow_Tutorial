@@ -7,6 +7,8 @@
 
 [News] The tutorial on QuantumFlow optimization is released on 06/02/2021! See Tutorial 4.
 
+[News] The tutorial can be executed on Google CoLab now on 06/01/2021!
+
 [News] The tutorial is released on 12/31/2020! Happy New Year and enjoy the following Tutorial.
 
 [News] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) has been accepted by **Nature Communications**.
@@ -92,25 +94,20 @@ Let us formulate the problem from scratch as follow.
 **Check:** Whether the prediction is correct; whether the results are almost the same with the circuit created in Tutorial 3; compare the reduction on circuit depth.
 
 
-
-
-## Enviroment Requirement
-* Qiskit
-* numpy
-* torch
-* torchvision
-
-
 ## Related work on This Tutorial
 
-The work accepted by Nature Communications.
+The work published at Nature Communications.
 
 ```
-@article{jiang2020co,
-  title={A Co-Design Framework of Neural Networks and Quantum Circuits Towards Quantum Advantage},
+@article{jiang2021co,
+  title={A co-design framework of neural networks and quantum circuits towards quantum advantage},
   author={Jiang, Weiwen and Xiong, Jinjun and Shi, Yiyu},
-  journal={arXiv preprint arXiv:2006.14815},
-  year={2020}
+  journal={Nature communications},
+  volume={12},
+  number={1},
+  pages={1--13},
+  year={2021},
+  publisher={Nature Publishing Group}
 }
 ```
 
