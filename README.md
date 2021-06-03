@@ -5,6 +5,8 @@
 
 # Tutorial for Implemeting Neural Network on Quantum Computer
 
+[News] The tutorial on QuantumFlow optimization is released on 06/02/2021! See Tutorial 4.
+
 [News] The tutorial is released on 12/31/2020! Happy New Year and enjoy the following Tutorial.
 
 [News] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) has been accepted by **Nature Communications**.
@@ -40,7 +42,6 @@ Let us formulate the problem as follow.
 
 **Check:** Whether the data is correctly encoded.
 
-Details please see **[Tutorial_1_DataPreparation.ipynb](https://github.com/weiwenjiang/QML_tutorial/blob/main/Tutorial_1_DataPreparation.ipynb)**.
 
 ## Tutorial 2: **PreP** + **U<sub>P</sub>** + **U<sub>N</sub>**
 
@@ -57,7 +58,6 @@ Let us formulate the problem based on the output of Tutorial 1 as follow.
 
 **Check:** Whether the output data of quantum circuit and the output computed using torch on classical computer are the same.
 
-Details please see **[Tutorial_2_Hidden_NeuralComp.ipynb](https://github.com/weiwenjiang/QML_tutorial/blob/main/Tutorial_2_Hidden_NeuralComp.ipynb)**.
 
 
 ## Tutorial 3: **PreP** + **U<sub>P</sub>** + **U<sub>N</sub>** + **M** + **PostP** 
@@ -74,7 +74,23 @@ Let us formulate the problem from scratch as follow.
 
 **Check:** Whether the prediction is correct.
 
-Details please see **[Tutorial_3_Full_MNIST_Prediction.ipynb](https://github.com/weiwenjiang/QML_tutorial/blob/main/Tutorial_3_Full_MNIST_Prediction.ipynb)**.
+
+
+## Tutorial 4: **PreP** + **U<sub>P</sub>** + **Optimized U<sub>N</sub>** + **M** + **PostP**  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiwenjiang/QML_tutorial/blob/main/Tutorial_4_QAccelerate.ipynb)
+
+This is a complete tutorial to demonstrates QuantumFlow can optimize the quantum circuit with the same function as the one created in Tutorial 3.
+We continously use the settings in Tutorial 3. We do the optimization on the U-Layer of two hidden neurons using the algorithm proposed in [QuantumFlow github repo](https://github.com/weiwenjiang/QuantumFlow).  
+
+Let us formulate the problem from scratch as follow.
+
+**Given:** (1) An image from MNIST; (2) The trained model.
+
+**Do:** (1) Construct the quantum circuit with optimized U-Layer; (2) Perform the simulation on Qiskit or execute the circuit on IBM Quantum Processor.
+
+**Check:** Whether the prediction is correct; whether the results are almost the same with the circuit created in Tutorial 3; compare the reduction on circuit depth.
+
 
 
 
@@ -112,8 +128,8 @@ The work invited by ASP-DAC 2021.
 ## Contact
 **Weiwen Jiang**
 
-**Email: wjiang2@nd.edu**
+**Email: wjiang8@gmu.edu**
 
-**Web: https://wjiang.nd.edu/**
+**Web: https://wjiang.nd.edu/ | https://jqub.github.io**
 
-**Date: 12/31/2020**
+**Date: 06/02/2021**
