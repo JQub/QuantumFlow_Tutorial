@@ -8,7 +8,7 @@
 
 [News] The tutorial on QuantumFlow optimization is released on 06/02/2021! See Tutorial 4.
 
-[News] The tutorial can be executed on Google CoLab now on 06/01/2021!
+[News] The tutorial can be executed on Google CoLab now!
 
 [News] The tutorial is released on 12/31/2020! Happy New Year and enjoy the following Tutorial.
 
