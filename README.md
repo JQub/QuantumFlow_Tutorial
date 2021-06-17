@@ -6,6 +6,8 @@
 
 # Tutorial for Implemeting Neural Network on Quantum Computer
 
+[News] A tutorial proposal on QuantumFlow has been accepted by (**ESWEEK**)[https://esweek.org/]. See you then on Oct. 08, 2021.
+
 [News] The tutorial on QuantumFlow optimization is released on 06/02/2021! See Tutorial 4.
 
 [News] The tutorial can be executed on Google CoLab now!
