@@ -6,19 +6,20 @@
 
 # Tutorial for Implemeting Neural Network on Quantum Computer
 
-[News 2021/06] A tutorial proposal on QuantumFlow has been accepted by [**ESWEEK**](https://esweek.org/). See you then virtually on Oct. 08, 2021.
+## News
+[2021/06] A tutorial proposal on QuantumFlow has been accepted by [**ESWEEK**](https://esweek.org/). See you then virtually on Oct. 08, 2021.
 
-[News 2021/06] The tutorial on QuantumFlow optimization is released on 06/02/2021! See Tutorial 4.
+[2021/06] The tutorial on QuantumFlow optimization is released on 06/02/2021! See Tutorial 4.
 
-[News 2021/05] The tutorial can be executed on Google CoLab now!
+[2021/05] The tutorial can be executed on Google CoLab now!
 
-[News 2021/01] Invited to give a talk at **ASP-DAC 2021** for this tutorial work.
+[2021/01] Invited to give a talk at **ASP-DAC 2021** for this tutorial work.
 
-[News 2021/01] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) has been accepted by **Nature Communications**.
+[2021/01] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) has been accepted by **Nature Communications**.
 
-[News 2020/12] The tutorial is released on 12/31/2020! Happy New Year and enjoy the following Tutorial.
+[2020/12] The tutorial is released on 12/31/2020! Happy New Year and enjoy the following Tutorial.
 
-[News 2020/09] Invited to give a talk at **IBM Quantum Summit** for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf).
+[2020/09] Invited to give a talk at **IBM Quantum Summit** for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf).
 
 
 ## Overview
