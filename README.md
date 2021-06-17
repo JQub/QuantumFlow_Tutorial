@@ -15,11 +15,11 @@
 
 [2021/01] Invited to give a talk at **ASP-DAC 2021** for this tutorial work.
 
-[2021/01] [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf) has been accepted by **Nature Communications**.
+[2021/01] [QuantumFlow](https://www.nature.com/articles/s41467-020-20729-5) has been accepted by **Nature Communications**.
 
 [2020/12] The tutorial is released on 12/31/2020! Happy New Year and enjoy the following Tutorial.
 
-[2020/09] Invited to give a talk at **IBM Quantum Summit** for [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf).
+[2020/09] Invited to give a talk at **IBM Quantum Summit** about [QuantumFlow](https://www.nature.com/articles/s41467-020-20729-5).
 
 
 ## Overview
