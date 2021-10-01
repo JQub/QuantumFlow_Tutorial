@@ -7,9 +7,10 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-from JQuantumFlow.training.lib_dataloader import load_data,modify_target
-from JQuantumFlow.training.lib_utils import binarize,save_checkpoint
-from JQuantumFlow.training.lib_net import Net
+
+from qfnn.qf_fb.c_input import load_data,modify_target
+from qfnn.qf_net.utils import binarize,save_checkpoint
+from qfnn.qf_fb.c_qf_mixer import Net
 
 
 # from qiskit_simulator_wbn import run_simulator
