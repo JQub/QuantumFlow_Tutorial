@@ -1,0 +1,24 @@
+===================== Your setting is listed as follows ======================
+	Attribute                 Input          
+	device                    cpu            
+	interest_class            3,6            
+	img_size                  4              
+	datapath                  /home/hzr/Software/quantum/qc_mnist/pytorch/data
+	preprocessdata            0              
+	num_workers               0              
+	batch_size                32             
+	inference_batch_size      1              
+	neural_in_layers          v:16,u:2       
+	init_lr                   0.01           
+	milestones                 5, 7, 9       
+	max_epoch                 10             
+	resume_path                              
+	test_only                 0              
+	binary                    0              
+	given_ang                 1 -1 1 -1, -1 -1
+	train_ang                 0              
+	save_chkp                 1              
+	chk_name                  v16_u2         
+	chk_path                  .              
+====================== Exploration will start, have fun ======================
+==============================================================================
