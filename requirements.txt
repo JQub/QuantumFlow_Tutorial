@@ -1,0 +1,5 @@
+pylatexenc==2.10
+qfnn==0.1.10
+qiskit==0.20.0
+torch==1.9.0
+torchvision==0.10.0
