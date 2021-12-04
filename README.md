@@ -38,7 +38,7 @@ Similarly, on the right-hand side, we can build up the workflow for quantum mach
 
 ## Tutorial 1: **PreP** + **U<sub>P</sub>**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiwenjiang/QML_tutorial/blob/main/Tutorial_1_DataPreparation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JQub/QuantumFlow_Tutorial/blob/main/session_2/Tutorial_1_DataPreparation.ipynb)
 
 This tutorial demonstrates how to do data pre-preocessing and encoding it to quantum circuit using Qiskit. 
 
@@ -53,7 +53,7 @@ Let us formulate the problem as follow.
 
 ## Tutorial 2: **PreP** + **U<sub>P</sub>** + **U<sub>N</sub>**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiwenjiang/QML_tutorial/blob/main/Tutorial_2_Hidden_NeuralComp.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JQub/QuantumFlow_Tutorial/blob/main/session_2/Tutorial_2_Hidden_NeuralComp.ipynb)
 
 
 This tutorial demonstrates how to use the encoded quantum circuit to perform **weighted sum** and **quadratic non-linear** operations, which are the basic operations in machine learning. 
@@ -70,7 +70,7 @@ Let us formulate the problem based on the output of Tutorial 1 as follow.
 
 ## Tutorial 3: **PreP** + **U<sub>P</sub>** + **U<sub>N</sub>** + **M** + **PostP** 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiwenjiang/QML_tutorial/blob/main/Tutorial_3_Full_MNIST_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JQub/QuantumFlow_Tutorial/blob/main/session_2/Tutorial_3_Full_MNIST_Prediction.ipynb)
 
 This is a complete tutorial to demonstrates an end-to-end implementation of a two-layer neural network for MNIST sub-dataset of {3,6}. The first layer (hidden layer) is implemented using the one presented in Tutorial 2, and the second layer (output layer) is implemented using the P-LYR and N-LYR proposed in [QuantumFlow](https://arxiv.org/pdf/2006.14815.pdf). The model is pre-trained and the weights for hidden layer, output layer, and normalization are obtained (details will be provided in [QuantumFlow github repo](https://github.com/weiwenjiang/QuantumFlow)). 
 
@@ -86,7 +86,7 @@ Let us formulate the problem from scratch as follow.
 
 ## Tutorial 4: **PreP** + **U<sub>P</sub>** + **Optimized U<sub>N</sub>** + **M** + **PostP**  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiwenjiang/QML_tutorial/blob/main/Tutorial_4_QAccelerate.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JQub/QuantumFlow_Tutorial/blob/main/session_2/Tutorial_4_QAccelerate.ipynb)
 
 This is a complete tutorial to demonstrates QuantumFlow can optimize the quantum circuit with the same function as the one created in Tutorial 3.
 We continously use the settings in Tutorial 3. We do the optimization on the U-Layer of two hidden neurons using the algorithm proposed in [QuantumFlow github repo](https://github.com/weiwenjiang/QuantumFlow).  
