@@ -136,6 +136,6 @@ The work invited by ASP-DAC 2021.
 
 **Email: wjiang8@gmu.edu**
 
-**Web: https://wjiang.nd.edu/ | https://jqub.github.io**
+**Web: https://jqub.ece.gmu.edu/**
 
 **Date: 06/17/2021**
