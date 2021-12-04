@@ -29,8 +29,7 @@ Recently, we proposed the first neural network and quantum circuit co-design fra
 
 This repo aims to demonstrate the workflow of implementing neural network onto quantum circuit and demonstrates the functional correctness. It will provide the basis to understand [QuantumFlow](https://www.nature.com/articles/s41467-020-20729-5). The demonstration of quantum advantage will be included in the repo for [QuantumFlow](https://www.nature.com/articles/s41467-020-20729-5), which will be completed soon at [here](https://github.com/weiwenjiang/QuantumFlow).
 
-Before introducing the QuantumFlow framework, we povide the implementation of basic quantum cirucit in the following colab.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JQub/QuantumFlow_Tutorial/blob/main/session_1/Tutorial_0_Basic_Quantum_Gate.ipynb)
+Before introducing the QuantumFlow framework, we povide the implementation of basic quantum cirucit in the following Qikist codes, which can be executed in colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JQub/QuantumFlow_Tutorial/blob/main/session_1/Tutorial_0_Basic_Quantum_Gate.ipynb)
 
 
 ## Framework: from classical to quantum
